@@ -1,4 +1,4 @@
-# Logic Design Laboratoryg<br/>
+# Logic Design Laboratory<br/>
 ***Fall 2022, EE231001 Logic Design Laboratory, 李濬屹(LEE, CHUN-YI)***<br/>
 Introduction to the basic concepts in logic design that form the basis of computation and communication circuits. Verilog and FPGA implementations. Logic gates and memory elements. Timing methodologies. Finite state systems. Programmable logic. Basic computer organization.
 
