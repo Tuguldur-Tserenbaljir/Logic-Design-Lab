@@ -1,0 +1,51 @@
+Thanks for submitting your assignment 4!  The comments from us are summarized as follows.
+
+ 
+
+Content_Addressable_Memory:
+
+- The diagram should be more detailed.
+
+ 
+
+Scan_Chain_Design:
+
+The ports of the MUXes are opposite. In addition, the port number of the MUX is too small.
+
+ 
+
+Built_In_Self_Test:
+
+- Very clear and detailed explanation
+
+ 
+
+Mealy_Sequence_Detector:
+
+- Block diagram not detailed enough.
+
+ 
+
+FPGA:
+
+- On line 144, you didn't specified the bit count.
+
+- No block diagram
+
+ 
+
+What you have learned from Lab 4:
+
+- It is great to know that you have learned how to use FSM, the difference between Moore and Mealy machines, and the concepts of scan chain.
+
+- Actually, CAM is not necessary “faster” than RAM. CAM is just another type of memory with a different function. It takes several bits of data inputs and tells us the address of it. On the other hand, a regular memory takes an address as its input and gives us the data. They differ in their function, but not the speed.
+
+- Thanks for Jason’s help to assist Tuguldur. Actually, it is not required to differentiate between a hit and multiple hits. As long as their is a hit, you can just output the smallest address of it.
+
+ 
+
+ 
+
+ 
+
+Lastly, thanks again for all the hard works on assignment 4. :)
