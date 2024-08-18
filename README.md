@@ -3,13 +3,31 @@
 Introduction to the basic concepts in logic design that form the basis of computation and communication circuits. Verilog and FPGA implementations. Logic gates and memory elements. Timing methodologies. Finite state systems. Programmable logic. Basic computer organization.
 
 # Mini-Coding Project Percentage
-LAB 1-100/100 ***Bingo Game***<br/>
-LAB 2-100/100 ***Maze***<br/>
-LAB 3-100/100 ***NQueen Problem***<br/>
-LAB 4-100/100 ***Bingo Game***<br/>
-LAB 5-100/100 ***Maze***<br/>
-LAB 6-100/100 ***NQueen Problem***<br/>
-Final Project: Plinko Game using FPGA<br/>
+LAB 1-92/100 <br/>
+LAB 2-81.4/100 <br/>
+Ripple_Carry_Adder: PASS
+Decode_And_Execute: FAIL
+Carry_Look_Ahead_Adder_8bit: PASS
+Multiplier_4bit: PASS
+Exhausted_Testing: FAIL
+LAB 3- /100 <br/>
+Ping_Pong_Counter: PASS
+FIFO_8: FAIL
+Multi_Bank_Memory: SYN_ERROR
+Round_Robin_FIFO_Arbiter: SYN_ERROR
+Parameterized_Ping_Pong_Counter: PASS
+LAB 4-86/100 <br/>
+Content_Addressable_Memory: PASS
+Scan_Chain_Design: PASS
+Built_In_Self_Test: PASS
+Mealy_Sequence_Detector: PASS
+LAB 5-47/100 <br/>
+Sliding_Window_Sequence_Detector: PASS
+Traffic_Light_Controller: FAIL
+Greatest_Common_Divisor: TIMEOUT
+Booth_Multiplier_4bit: FILE_DNE
+LAB 6-59/100 <br/>
+Final Project: Plinko Game using FPG: 87/100A<br/>
 
 # Syllabus
 Lab 1: Gate-level modeling<br/>
