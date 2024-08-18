@@ -4,17 +4,17 @@ Introduction to the basic concepts in logic design that form the basis of comput
 
 # Mini-Coding Project Percentage
 ## LAB 1-92/100 <br/>
-Dmux_1x4_4bit: PASS
-Crossbar_2x2_4bit: PASS
-Crossbar_4x4_4bit: PASS
-Toggle_Flip_Flop: PASS
+Dmux_1x4_4bit: PASS<br/>
+Crossbar_2x2_4bit: PASS<br/>
+Crossbar_4x4_4bit: PASS<br/>
+Toggle_Flip_Flop: PASS<br/>
 ## LAB 2-81.4/100 <br/>
 Ripple_Carry_Adder: PASS<br/>
 Decode_And_Execute: FAIL<br/>
 Carry_Look_Ahead_Adder_8bit: PASS<br/>
 Multiplier_4bit: PASS<br/>
 Exhausted_Testing: FAIL<br/>
-## LAB 3- /100 <br/>
+## LAB 3- 47/100 <br/>
 Ping_Pong_Counter: PASS<br/>
 FIFO_8: FAIL<br/>
 Multi_Bank_Memory: SYN_ERROR<br/>
