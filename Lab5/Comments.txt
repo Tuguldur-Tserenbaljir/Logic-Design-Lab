@@ -1,0 +1,59 @@
+Thanks for submitting your assignment 5!  The comments from us are summarized as follows.
+
+ 
+
+Sliding_Window_Sequence_Detector:
+
+- The block diagram can be more detailed.
+
+ 
+
+Traffic_Light_Controller:
+
+- Please draw the block diagram in more detail.
+
+ 
+
+Greatest_Common_Divisor:
+
+- The logic diagram is too high level, please draw what's inside the Memory Block
+
+- The testcase should cover more possibilities, such as when one of the input is 0
+
+ 
+
+Booth_Multiplier_4bit:
+
+The explaination is too vague.
+
+ 
+
+FPGA Vending_Machine:
+
+- File DNE
+
+ 
+
+FPGA Music:
+
+- The explanation is clear.
+
+- Please submit the code of Music fpga.
+
+ 
+
+What have you learned from Lab 5:
+
+- Good to know that you have learned the peripheral devices and how they can be used together with FPGA.
+
+- Just wondering if there is any other things or problems that you have learned from this lab? 
+
+ 
+
+ 
+
+ 
+
+Lastly, thanks again for all the hard works on assignment 5. :)
+
+ 
