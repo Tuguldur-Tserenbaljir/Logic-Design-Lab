@@ -1,0 +1,37 @@
+Thanks for submitting your assignment 6!  The comments from us are summarized as follows.
+
+ 
+
+FPGA-Chip2chip:
+
+- Really clear explanation
+
+ 
+
+FPGA-Slot:
+
+ 
+
+ 
+
+FPGA-Car:
+
+Parameters should be declared within modules. Besides, there are multiple syntax error in your code. Such as a variable can't use with 'assign' after declared 'reg'.
+
+If you see this comment before deadline of final project, I suggest you review the basic coding tutorials of verilog.
+
+ 
+
+WHYL:
+
+- I am glad to know that you have learned how to work with the sensors. I was just curious how you connect HDMI to the FPGA board? (I assumed that you meant VGA?)
+
+- Great to know that you can now write Verilog in a more efficient way. :)
+
+- If you don’t understand certain parts, you are always welcome to post your questions on the EEClass forum.
+
+ 
+
+ 
+
+Lastly, thanks again for all the hard works on assignment 6. :)
