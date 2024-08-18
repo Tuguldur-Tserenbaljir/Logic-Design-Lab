@@ -1,0 +1,69 @@
+Thanks for submitting your assignment 3!  The comments from us are summarized as follows.
+
+ 
+
+Ping_Pong_Counter:
+
+- You shouldn't initialize registers when declaring since it's hardware description language, not c language.
+
+ 
+
+FIFO_8:
+
+- Please avoid initializing registers or wires when declaring.
+
+- Please implement your sequential and combinational circuits seperately and write the if-else statement completely.
+
+- Please draw the block diagram that shows how your design works.
+
+- Some cases were not tested.
+
+ 
+
+Multi_Bank_Memory:
+
+- No testbench file.
+
+- Almost no report
+
+ 
+
+Round_Robin_FIFO_Arbiter:
+
+- The explanation could be more detailed, such as explain with your code screenshot
+
+- No logic diagram
+
+ 
+
+Parameterized_Ping_Pong_Counter:
+
+- You can use Mux and D flip-flop to draw the block diagram.
+
+- Please don't initialize registers.
+
+ 
+
+FPGA:
+
+- Please draw the block diagram of your design.
+
+- Please do not use the diagram from the internet directly.
+
+ 
+
+What you have learned from Lab 3:
+
+- Hope that Tuguldur has recovered from COVID-10.
+
+- It was nice that the codes were still in the cache. Maybe Jason could consider to backup your files regularly to the cloud, such as Google drive, dropbox, iCloud, etc.? For me, almost all the files are backed up by Google drive. It might be safer and would prevent you from such problems next time. :)
+
+- Both of you are very good in our opinion. The worst period is over, and I believe that you will get through the remaining labs well.
+
+- If you have questions, try to post them on EEClass. The TAs and me would try to answer them as soon as possible. We are always glad to help everyone.
+
+ 
+
+ 
+
+Lastly, thanks again for all the hard works on assignment 3. :)
