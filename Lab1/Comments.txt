@@ -1,0 +1,63 @@
+Dear Team 6,
+
+ 
+
+Thanks for submitting your assignment 1!  The comments from us are summarized as follows.
+
+ 
+
+DMux_4bits:
+
+1. A complete and detailed explanation.
+
+2. You don't have to paste the whole code.
+
+3. Some signal are missing in fig.1.3.
+
+ 
+
+2x2_Crossbar:
+
+- 4 bit and 1 bit signals wired on a same gate in the diagram.
+
+- You don't need to paste all the code.
+
+- You may use array of instances mentioned in lecture 1 instead of wiring bit by bit in your code.
+
+ 
+
+4x4_Crossbar:
+
+It is recommended that the wires in the logic diagram should be either vertical or horizontal. Some wires are having 4-bit signal (but some are not) in the second logic diagram, which is quite confusing. In addition, the second diagram is not needed since you have drawn the crossbar2x2 already. Doesn't show all of the unachievable combinations.
+
+ 
+
+TFF_1bits:
+
+- The circuit diagram and the explaination of design is detailed and clear.
+
+- Please do not paste all the codes.
+
+- Please explain the simulation results of your testbench more detailed.
+
+ 
+
+FPGA:
+
+- No circuit diagram of how to double the number of output signals.
+
+- It is recommended to use fan-out to double the number of output signals. (please refer to the slides of Lecture1)
+
+ 
+
+Wha you have learned from Lab 1:
+
+- It is great that you have learned how to use the FPGA board and Vivado.
+
+- Good to know that you have learned how to implement a testbench.
+
+- Great team work! :)
+
+ 
+
+Lastly, thanks again for all the hard works on assignment 1. :)
