@@ -1,0 +1,65 @@
+Thanks for submitting your assignment 2!  The comments from us are summarized as follows.
+
+ 
+
+RCA:
+
+- Some lines are missing or cut off in the picture of the basic part.
+
+- Try to avoid overlapping or intersecting wires and ensure that all the wires are connected.
+
+- Please refrain from pasting all the codes in your report.
+
+ 
+
+Decode and execute:
+
+- You have to explain your implementation instead of just pasting your code.
+
+- Wrong file name for the testbench.
+
+- Incorrect use of Universal_Gate module, you might want to check Universal_Gate.v again.
+
+ 
+
+CLA:
+
+- You can try using $display to verify your results.
+
+ 
+
+Multiplier:
+
+Please describe your testbench in more details.
+
+ 
+
+Testbench:
+
+- Please explain the code you provided, rather than just put them in the report.
+
+- Using additional graph to help with your explanation is good.
+
+ 
+
+FPGA:
+
+- Please refrain from pasting all the codes in the report.
+
+- It is recommended to use kmap to simplify the implementation of fpga.
+
+ 
+
+What you have learned from Lab 2:
+
+- Thanks for sharing a very detailed summary of what you have learned from this lab.
+
+- Great to know that you have learned how to implement the two adders and the multiplier by gate-level Verilog.
+
+- Nice FPGA demonstration and good implementation on the seven segment display.
+
+ 
+
+ 
+
+Lastly, thanks again for all the hard works on assignment 2. :)
