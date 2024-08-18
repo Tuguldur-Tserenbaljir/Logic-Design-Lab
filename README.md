@@ -12,14 +12,13 @@ LAB 6-100/100 ***NQueen Problem***<br/>
 Final Project: Plinko Game using FPGA<br/>
 
 # Syllabus
-Lab 1: Gate-level modeling
-Lab 2: Data-flow modeling and Behavioral modeling
-Lab 3: Sequential circuits & FPGA board
-Lab 4: Finite State Machines & FPGA board
-Lab 5: Advanced circuit implementation, Finite State Machine, and FPGA board
-Lab 6: Short-term project
-Final Project: The students will submit a proposal, then exercise their
-creativity to build a small course project.
+Lab 1: Gate-level modeling<br/>
+Lab 2: Data-flow modeling and Behavioral modeling<br/>
+Lab 3: Sequential circuits & FPGA board<br/>
+Lab 4: Finite State Machines & FPGA board<br/>
+Lab 5: Advanced circuit implementation, Finite State Machine, and FPGA board<br/>
+Lab 6: Short-term project<br/>
+Final Project: The students will submit a proposal, then exercise their creativity to build a small course project.<br/>
 
 # Refrence
 There is no required textbook
